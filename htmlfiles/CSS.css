@@ -171,6 +171,7 @@ nav {
 #BackNote{
 
 	background-image: url('../images/Note1.png');
+	background-size: 100%;
 	-margin: 1em;
 	border: 5px solid white;
 display: inline-block;
