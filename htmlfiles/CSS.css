@@ -16,8 +16,8 @@
 
 <style>
     a { padding:15px; font-weight:bold; float:left; cursor: pointer; }
-    a:link { color:#000000; background-color:#ffffff; }
-    a:visited { color:#000000; background-color:#c0c0c0; }
+    a:link { color:rgb(143, 154, 210); background-color:#ffffff; }
+    a:visited { color:rgb(143, 154, 210); background-color:#c0c0c0; }
     a:hover { color:#ffffff; background-color:rgb(143, 154, 210); }
     a:active { color:rgb(143, 154, 210); background-color:#ffffff; }
 </style>
